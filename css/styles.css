@@ -12,3 +12,9 @@ h1 {
     font-size: 3rem;
     line-height: 1.5;
 }
+
+/********************************** CLASS SELECTORS **************************************/
+
+.container-fluid {
+    padding: 3% 15%;
+}
